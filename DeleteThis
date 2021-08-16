@@ -1,0 +1,101 @@
+Las dimensiones del desarrollo humano se dividen en etapas separadas pero consecutivas de la vida humana. 
+Se caracterizan por el desarrollo prenatal, la niñez temprana, la primera infancia, la niñez tardía, la adolescencia, 
+la edad adulta temprana, la edad adulta media y la vejez.
+El desarrollo prenatal es el proceso durante el cual un embrión humano se gesta durante el embarazo, desde la fertilización hasta el nacimiento. 
+Los términos desarrollo prenatal, desarrollo fetal y embriología a menudo se usan indistintamente. 
+El período embrionario en los seres humanos comienza con la fertilización y desde el nacimiento hasta el primer año, el niño se conoce como un bebé. 
+La mayor parte del tiempo de un recién nacido se pasa durmiendo. 
+Al principio, este sueño se distribuye uniformemente durante el día y la noche, pero después de un par de meses, los bebés generalmente se vuelven diurnos.
+
+
+########################
+#### Recently Added ####
+########################
+
+Subject: <b>({server_name})</b> | Changes in libraries
+Message body:
+
+<movie>{timestamp} - {datestamp}
+<b>NEW MOVIE ADDED</b>
+
+🎬  <b>Qualification:</b> <i>{title} ({year}) - {content_rating}</i>
+🏢  <b>Estudio:</b> <i>{studio}</i>
+👷🏻  <b>Director:</b> <i>{directors}</i>
+👫  <b>Actores:</b> <i>{actors:[1:5]}</i>
+🕓  <b>Duración:</b> <i>{duration} minutos</i>
+🎭  <b>Género:</b> <i>{genres}</i>
+⚙️  <b>Formato archivo:</b><i>{video_width}x{video_height} - {video_resolution}p  ({file_size})</i>
+🔗  <b>Enlace a IMDB:</b> <a href="{imdb_url}">{imdb_url}</a>
+🔗  <b>Enlace a Plex:</b> <a href="{plex_url}">{library_name}</a>
+
+<b>SINOPSIS:</b>
+<b>★ {rating} | </b><i>{summary}</i>
+<a href="{poster_url}">&nbsp;</a>
+</movie>
+
+<episode>{timestamp} - {datestamp}
+<b>NUEVO CAPÍTULO AÑADIDO</b>
+
+📺  <b>Título de serie:</b> <i>{show_name} ({year})</i>
+🔢  <b>Episodio:</b> <i>{season_num}x{episode_num00} - "{episode_name}"</i>
+🕓  <b>Duración:</b> <i>{duration} minutos</i>
+🎭  <b>Género:</b> <i>{genres}</i>
+⚙️  <b>Formato archivo:</b> <i>{video_width}x{video_height} - {video_resolution}p  ({file_size})</i>
+🔗  <b>Enlace a TheTVDB:</b> <a href="{thetvdb_url}">{thetvdb_url}</a>
+🔗  <b>Enlace a Plex:</b> <a href="{plex_url}">{library_name}</a>
+
+<b>SINOPSIS:</b>
+<b>★ {rating} | </b><i>{summary}</i>
+<a href="{poster_url}">&nbsp;</a>
+</episode>
+
+<show>{timestamp} - {datestamp}
+<b>NUEVA SERIE AÑADIDA</b> 
+
+📺  <b>Título de serie:</b> <i>{show_name} ({year})</i>
+🏢  <b>Estudio:</b> <i>{studio}</i>
+👷🏻  <b>Director:</b> <i>{directors}</i>
+👫  <b>Actores:</b> <i>{actors:[1:5]}</i>
+🎭  <b>Género:</b> <i>{genres}</i>
+🔗  <b>Enlace a TheTVDB:</b> <a href="{thetvdb_url}">{thetvdb_url}</a>
+🔗  <b>Enlace a Plex:</b> <a href="{plex_url}">{library_name}</a>
+
+<b>SINOPSIS:</b>
+<b>★ {rating} | </b><i>{summary}</i>
+<a href="{poster_url}">&nbsp;</a>
+</show>
+
+<season>{timestamp} - {datestamp}
+<b>NUEVA TEMPORADA AÑADIDA</b> 
+
+📺  <b>Título de serie:</b> <i>{show_name} ({year})</i>
+📺  <b>Temporada:</b> <i>{season_num}</i>
+🏢  <b>Estudio:</b> <i>{studio}</i>
+👷🏻  <b>Director:</b> <i>{directors}</i>
+👫  <b>Actores:</b> <i>{actors:[1:5]}</i>
+🎭  <b>Género:</b> <i>{genres}</i>
+⚙️  <b>Formato archivo:</b> <i>{video_width}x{video_height} - {video_resolution}p  ({file_size})</i>
+🔗  <b>Enlace a TheTVDB:</b> <a href="{thetvdb_url}">{thetvdb_url}</a>
+🔗  <b>Enlace a Plex:</b> <a href="{plex_url}">{library_name}</a>
+
+<b>SINOPSIS:</b>
+<b>★ {rating} | </b><i>{summary}</i>
+<a href="{poster_url}">&nbsp;</a>
+</season>
+
+<album>{timestamp} - {datestamp}
+<b>NUEVO ALBUM AÑADIDO</b>
+
+🎤  <b>Grupo:</b> <i>{artist_name}</i>
+🎹  <b>Álbum:</b> <i>{album_name}</i>
+🎼  <b>Canciones:</b> <i>{track_count}</i>
+📅  <b>Año:</b> {year} | <i>{rating}</i>
+🎭  <b>Género:</b> <i>{genres}</i>
+🔗  <b>Enlace a Plex:</b> <a href="{plex_url}">{library_name}</a>
+<a href="{poster_url}">&nbsp;</a>
+</album>
+#added
+
+########################
+#### Recently Added ####
+########################
